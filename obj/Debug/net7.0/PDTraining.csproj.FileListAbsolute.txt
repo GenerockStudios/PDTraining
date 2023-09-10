@@ -1,0 +1,15 @@
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\bin\Debug\net7.0\PDTraining.exe
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\bin\Debug\net7.0\PDTraining.deps.json
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\bin\Debug\net7.0\PDTraining.runtimeconfig.json
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\bin\Debug\net7.0\PDTraining.dll
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\bin\Debug\net7.0\PDTraining.pdb
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\PDTraining.csproj.AssemblyReference.cache
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\PDTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\PDTraining.AssemblyInfoInputs.cache
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\PDTraining.AssemblyInfo.cs
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\PDTraining.csproj.CoreCompileInputs.cache
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\PDTraining.dll
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\refint\PDTraining.dll
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\PDTraining.pdb
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\PDTraining.genruntimeconfig.cache
+C:\Users\General_Erock\source\repos\Youtube\PDTraining\obj\Debug\net7.0\ref\PDTraining.dll
